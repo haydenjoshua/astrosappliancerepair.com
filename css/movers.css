@@ -237,7 +237,7 @@ a.btn-link:hover i { transform: translateX(4px); }
 
 .feature-box .fbox-icon {
 	background-color: transparent;
-	background-image: url('images/featured-img/2.jpg');
+	background-image: url('../img/2.jpg');
 	background-repeat: no-repeat;
 	background-position: center center;
 	color: var(--themecolor, #31AFFF);
@@ -444,7 +444,6 @@ footer .list-unstyled li a,
 		font-weight: 500;
 		text-shadow: none;
 	}
-	.dark #primary-menu > .container > ul > li.sub-menu > a { background-image: url("../../images/icons/submenu-dark.png"); }
 
 	.toggle .togglet,
 	.toggle .toggleta,
